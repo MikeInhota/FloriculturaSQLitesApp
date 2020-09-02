@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlorSQLiteApp</string>
+    <array name="tiposplantas">
+        <item>Selecionar tipo ...</item>
+        <item>Arbórea - Angiosperma</item>
+        <item>Arbórea - Gimnosperma</item>
+        <item>Arbustiva - Angiosperma</item>
+        <item>Arbustiva - Gimnosperma</item>
+        <item>Herbácea - Angiosperma</item>
+        <item>Herbácea - Gimnosperma</item>
+    </array>
+</resources>
